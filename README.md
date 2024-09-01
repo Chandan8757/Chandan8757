@@ -5,8 +5,8 @@ I'm a passionate software developer with a strong focus on building robust and s
 ## 🔧 Technologies & Tools
 
 - **Languages**: C, JavaScript, Java, C++
-- **Web Development**: HTML, CSS, React.
-- **Databases**: MySQL
+- ** Front-End Web Development**: HTML, CSS, React Js
+-  ** Back-End Web Development**: Mongo DB, Express Js, React, Node Js
 - **Version Control**: Git & GitHub
 
 
