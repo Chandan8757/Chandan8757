@@ -2,7 +2,7 @@
 
 <img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Chandan8757"/>
 <img alt="top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandan8757&layout=compact"/>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Chandan8757&" alt="Chandan8757" /></p>
 
 
 ## 🔧 Technologies & Tools
