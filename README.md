@@ -1,4 +1,5 @@
-# Hi there! 👋 I'm Chandan Kumar
+<h1 align="center">Hi 👋, I'm Chandan Kumar</h1>
+<h3 align="center">A passionate Software Engineer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Chandan8757&label=Profile%20views&color=0e75b6&style=flat" alt="Chandan8757" /> </p>
 <img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Chandan8757"/>
 <img alt="top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandan8757&layout=compact"/>
