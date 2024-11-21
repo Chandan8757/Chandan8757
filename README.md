@@ -33,7 +33,7 @@ My goal is to continue growing as a software developer by taking on challenging 
 ## 📫 Get in Touch
 
 - 📫 Email me at <a href="mailto:ck846747@gmail.com.com">ck846747@gmail.com.com</a>
-- <h3>Connect with me</h3>: <a href="https://linkedin.com/in/entrep-chandan/" target="_blank">Chandan Kumar on Linkedin</a>
+- <h3>Connect with me</h3>: <a href="https://www.linkedin.com/in/chandan-kumar-a8225424b/" target="_blank">Chandan Kumar on Linkedin</a>
 
 ---
 
