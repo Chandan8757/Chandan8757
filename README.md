@@ -12,7 +12,7 @@ I'm a passionate software developer with a strong focus on building robust and s
 
 ## 🌱 Currently Learning
 
-I'm always on the lookout for new technologies to expand my skill set. Currently, I'm diving deeper into many language and exploring the world of Artificial Intelligence.
+I'm always on the lookout for new technologies to expand my skill set. Currently, I'm diving deeper into many language and exploring the world of Web Development.
 
 ## 💼 Work Experience
 
