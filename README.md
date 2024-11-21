@@ -1,6 +1,7 @@
 # Hi there! 👋 I'm Chandan Kumar
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chandan8757&show_icons=true)](https://github.com/Chandan8757/github-readme-stats&show_icons=true)
+<img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Chandan8757"/>
+<img alt="top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandan8757&layout=compact"/>
 
 I'm a passionate software developer with a strong focus on building robust and scalable applications. I love solving complex problems, learning new technologies, and contributing to open-source projects.
 
