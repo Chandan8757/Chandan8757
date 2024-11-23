@@ -40,6 +40,5 @@ My goal is to continue growing as a software developer by taking on challenging 
     <img src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=flat&logo=leetcode&logoColor=black" alt="LeetCode" width="100" height="30" />
 </a>
 
----
-
 💡 *I'm always excited to collaborate on new projects and ideas. Let's connect!*
+==
