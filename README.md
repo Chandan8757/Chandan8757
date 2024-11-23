@@ -36,7 +36,6 @@ My goal is to continue growing as a software developer by taking on challenging 
 <a href="https://www.linkedin.com/in/chandan-kumar-a8225424b/" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="30" />
 </a>
-
 <a href="https://leetcode.com/u/chandantiwari13/" target="blank" style="margin-left: 15px;">
     <img src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=flat&logo=leetcode&logoColor=black" alt="LeetCode" width="100" height="30" />
 </a>
