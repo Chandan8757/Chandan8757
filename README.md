@@ -30,10 +30,16 @@ I've had the opportunity to work on various projects ranging from web applicatio
 
 My goal is to continue growing as a software developer by taking on challenging projects, contributing to open-source, and collaborating with other developers in the community.
 
-## 📫 Get in Touch
+  ## 🌐 Socials:
+*Connect with Me:*
 
-- 📫 Email me at <a href="mailto:ck846747@gmail.com.com">ck846747@gmail.com.com</a>
-- <h3>Connect with me</h3>: <a href="https://www.linkedin.com/in/chandan-kumar-a8225424b/" target="_blank">Chandan Kumar on Linkedin</a>
+<a href="https://www.linkedin.com/in/chandan-kumar-a8225424b/" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="30" />
+</a>
+
+<a href="https://leetcode.com/u/chandantiwari13/" target="blank" style="margin-left: 15px;">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=flat&logo=leetcode&logoColor=black" alt="LeetCode" width="100" height="30" />
+</a>
 
 ---
 
