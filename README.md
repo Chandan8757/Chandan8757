@@ -32,6 +32,7 @@ My goal is to continue growing as a software developer by taking on challenging 
 
   ## 🌐 Socials:
 *Connect with Me:*
+- 📫 Email me at <a href="mailto:rohit@fullstacklearning.com">ck846747@gmail.com</a>
 
 <a href="https://www.linkedin.com/in/chandan-kumar-a8225424b/" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="30" />
