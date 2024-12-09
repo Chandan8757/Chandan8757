@@ -10,7 +10,7 @@
 
 ## 🔧 Technologies & Tools
 
-- **Languages**: C, JavaScript, Java, C++
+- **Languages**: C, JavaScript, C++
 - ** Front-End Web Development**: HTML, CSS, JavaScript ,React Js
 -  ** Back-End Web Development**: Mongo DB, Express Js, React, Node Js
 - **Version Control**: Git & GitHub
